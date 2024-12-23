@@ -4,4 +4,4 @@ Para acessar o mapa dinâmico <a href="https://paisagismonocampus.github.io/Arbo
 # Link direto do acesso online do mapa dinâmico mobiliário
 Para acessar o mapa dinâmico <a href="https://paisagismonocampus.github.io/Mobiliario/">Clique aqui
 # Link para acessar o tutorial de elaboração do mapa dinâmico
-Clique aqui para 
+Clique aqui para <a href="./TutorialWebSIG_Paisagismo.pdf" target="_blank">Visualizar PDF</a>
